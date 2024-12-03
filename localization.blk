@@ -8,9 +8,9 @@ regional:t="%langRegional/regional_trophies.csv"
 regional:t="%langRegional/regional_skins.csv"
 regional:t="%langRegional/regional_decals.csv"
 regional:t="%langRegional/regional_titles.csv"
-english_us:t="Russian"
-default_audio:t="Russian"
-default_lang:t="Russian"
+english_us:t="English"
+default_audio:t="English"
+default_lang:t="English"
 
 locTable{
   file:t="%lang/matching.csv"
